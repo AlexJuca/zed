@@ -2768,7 +2768,6 @@ dependencies = [
  "language",
  "menu",
  "notifications",
- "parking_lot",
  "picker",
  "pretty_assertions",
  "project",
@@ -15605,7 +15604,6 @@ dependencies = [
  "ui",
  "util",
  "uuid",
- "zed_actions",
 ]
 
 [[package]]
@@ -16110,6 +16108,7 @@ name = "zed_actions"
 version = "0.1.0"
 dependencies = [
  "gpui",
+ "schemars",
  "serde",
 ]
 
